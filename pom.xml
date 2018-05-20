@@ -62,17 +62,17 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
+<!--  <distributionManagement>
     <repository>
         <id>central</id>
         <name>indian-PC-releases</name>
-        <url>http://192.168.1.113:8081/artifactory/irctc</url>
+        <url>http://192.168.1.117:8081/artifactory/irctc</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>indian-PC-snapshots</name>
-        <url>http://192.168.1.113:8081/artifactory/irctc</url>
+        <url>http://192.168.1.117:8081/artifactory/irctc</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement> -->
 </project>
 
